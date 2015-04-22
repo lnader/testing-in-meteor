@@ -9,4 +9,4 @@ accounts-password
 accounts-ui
 iron:router
 email
-mike:mocha@=0.5.2
+mike:mocha
